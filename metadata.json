@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Artifacts: Roguelike Explorer",
+  "description": "A procedural dungeon crawler featuring roguelike mechanics, turn-based tactical combat, equipment crafting, and rare artifact collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
